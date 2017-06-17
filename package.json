@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "simple bot practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianadziedzic/twitter-bot.git"
+  },
+  "author": "Ariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianadziedzic/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/arianadziedzic/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
